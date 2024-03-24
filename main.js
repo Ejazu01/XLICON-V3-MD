@@ -15,10 +15,10 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : Ejazu-V1-MD
+//  * @author : Ejazu
+//  * @youtube : https://youtube.com/@e.gismad1744
+//   * @description : Ejazu-V1 ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
